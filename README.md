@@ -1,3 +1,3 @@
 # Front-end
-For my projects and later use.
+For my software project and later use.
 It is a simple code for sign in and signup.
