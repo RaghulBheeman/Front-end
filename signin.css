@@ -96,12 +96,6 @@ input{
  button:focus{
     outline:none;
  }
-.sign-up-container{
-    top:0;
-    height:100%;
-    z-index:3;
- }
-
  .backgroundimage{
     text-align: center;
     background-color: #dc143d;
